@@ -2,10 +2,10 @@
 End-to-end salary prediction web app built with Linear Regression and Streamlit
 💼 Salary Intelligence Tool
 An end-to-end Machine Learning web app that predicts salary based on years of experience — and works in reverse to calculate how much experience you need to reach a target salary.
-Built as part of a 6-day ML streak over Easter holiday by a final-year Mechatronics Engineering student.
+Built as part of a 6-day ML streak over Easter holiday by a second-year Mechatronics Engineering student.
 
 🌐 Live Demo
-[Add your Streamlit Cloud link here after deploying]
+[https://salaryanalysis-model-lpqucprn5vqxangrhsrkur.streamlit.app/]
 
 🎯 What It Does
 
